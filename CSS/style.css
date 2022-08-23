@@ -1,0 +1,27 @@
+h1{
+    color:red;
+}
+
+p{
+    color:blue;
+}
+
+span{
+    color:blueviolet;
+}
+
+.container{
+    border: 2px red solid;
+    display: grid;
+    grid-template-columns: 50px 50px;
+    grid-template-rows: 100px 100px 100px;
+    width: 400px;
+    height: 400px;
+}
+
+.box{
+    border: 2px blue solid;
+    background-color: bisque;
+    margin: 2px;
+    text-align: center;
+}

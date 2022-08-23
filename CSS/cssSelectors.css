@@ -2,7 +2,7 @@
     background-color:blue;
 }
 
-div{
+/*div{
     width: 100px;
     height: 100;
     background-color: brown;
@@ -11,7 +11,7 @@ div{
     background-color:red;
 
 }
-
+*/
 p[title]{
     color:red;
 }
@@ -19,3 +19,13 @@ p[title]{
 a[href]{
     color:blue;
 }
+
+/*
+div. first{}
+div.second{}
+div.parent{}
+fixed properrty, absolute property.
+All Html and css libraries can be found in bootstrap.com
+just copy and paste.
+Dont need to go detail in css
+*/
